@@ -9,7 +9,7 @@
   <a href="https://t.me/vykssy"> 
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/oksana-vykhryst-1458b5193"> 
+  <a href="https://www.linkedin.com/in/oksana-vykhryst"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/vykssy/"> 
