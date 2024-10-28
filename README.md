@@ -50,9 +50,12 @@
 
 ### My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="25px">
 <div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vykhryst&theme=buefy&border=false" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vykhryst&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vykhryst&theme=buefy&border=false" alt="GitHub Stats" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vykhryst&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="Github languages" />  
+</div>
+
+<!--  <div>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vykhryst&theme=buefy&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />  
 </div>
 
 Expand to View
@@ -60,7 +63,7 @@ Expand to View
   <summary><b>⚡️GitHub Streak</b></summary>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vykhryst&theme=buefy&hide_border=true" alt="GitHub Streak" />
 </details>
-<!-- <details>
+<details>
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   <br/>
    <img alt="Gift' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vykhryst&bg_color=ffffff&color=01003d&line=4600c7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
