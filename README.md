@@ -2,7 +2,6 @@
   <h1>Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="32" height="32" />
   I'm Oksana</h1>
   <h3>Java Developer from Kropyvnytskyi</h3>
-  <p>Computer science student at KhNURE</p>
 </div>
 
 <div align="center">
